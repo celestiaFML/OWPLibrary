@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "passwordHash": "$2a$10$1TfGpVnBO4FjU7dJKSS07ekOkSW7xOe35sqVI7SBXbchPjLcVEcKm",
+      "roles": ["admin", "user"]
+    },
+    {
+      "username": "moderator",
+      "passwordHash": "$2a$10$8HYu4ZQmr1QK9g.LmrEdoOEhLQKxzkduR.BQaJNky1QvyAto77Dg6",
+      "roles": ["moderator", "user"]
+    },
+    {
+      "username": "user",
+      "passwordHash": "$2a$10$T5CDwdvi4xFAXL7/2hJ58e1B67Kcd6bEZkoBdhvjlcUdZTFU3uf0a",
+      "roles": ["user"]
+    }
+  ]
+}
